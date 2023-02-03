@@ -1,0 +1,3 @@
+from detoxa_services.tasks.appointmentsreport import new_appointments_report
+from detoxa_services.tasks.newregistrationreport import new_registration_report
+from detoxa_services.tasks.testconductedreport import new_tests_report
